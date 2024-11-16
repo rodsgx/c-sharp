@@ -102,6 +102,6 @@ namespace Calculator
             Console.WriteLine($"O resultado da multiplicação é {resultado}");
             Console.ReadKey();
             Menu();
-        }
-    }
+        }
+    }
 }

@@ -63,7 +63,6 @@ namespace Stopwatch
             Console.WriteLine("Stopwatch finalizado");
             Thread.Sleep(2500);
             Menu();
-        }
-
-    }
+        }
+    }
 }
