@@ -76,6 +76,6 @@ namespace TextEditor
             Console.WriteLine($"Arquivo {path} salvo com sucesso!");
             Console.ReadLine();
             Menu();
-        }
-    }
+        }
+    }
 }
